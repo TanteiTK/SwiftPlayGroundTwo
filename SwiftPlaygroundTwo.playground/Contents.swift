@@ -13,16 +13,16 @@ print("I should be getting a good garde")
 
 //Part3 #2
 
-if goodGrade== "I haven't been doing all my work"
+if goodGrade == "I haven't been doing all my work"
 {
 
 print("I should be getting a good grade")
 }
-part 4
+//part 4
 if goodGrade == "I've been doing all my work"{
     print(" I should be gettting an A this point")
 }else{
-
+print}
 
 
 var gradeA=true
@@ -34,5 +34,6 @@ if gradeA
 }
 else
 
-
+{
 print ("I'm not so sure about coding")
+}
